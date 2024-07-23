@@ -8,6 +8,7 @@ This repository provides a classic Snake and Ladders game for two players in Pyt
 - Players take turns rolling a (simulated) die
 - Snake and ladder mechanics
 - First to the end (configurable) wins
+- Automatically creates a board_state.txt which contains the board state
 
 ## Languages
 
